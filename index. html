@@ -1,0 +1,68 @@
+<html>
+    <title>
+Портфолио дизайнера
+</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+    <head>
+    </head>
+    <body>
+    <header> 
+        <nav>
+            <a href="">Обо мне</a>
+            <a href="">Портфолио</a>
+        </nav>
+        <img src="https://kartinki.pics/pics/uploads/posts/2022-09/1662615787_1-kartinkin-net-p-milie-kotiki-v-shapochkakh-instagram-1.jpg">
+    </header>
+    <nav>
+        <h1>Скоморохова Варвара</h1>
+        <h1>Веб-дизайнер</h1>
+    </nav>
+    <h1 class="about">ОБО МНЕ</h1>  
+     <div class="circle"> </div>
+    <div class="square"> </div>
+    <div class="triangle"> </div>
+
+    <h1 class="certificate">Получила сертификат по курсу веб-разработка от школы "Алгоритмика"</h1>
+    <h1 class="age">Мне 12 лет, я учусь в 6 классе</h1>
+    <h1 class="birthday">Мой день рождения 31 августа</h1>
+    <h1 class="life">Живу на Урале</h1>
+   
+    <h1 class="description"></h1>
+    <h1 class="portfolio"> ПОРТФОЛИО ПОРТФОЛИО ПОРТФОЛИО ПОРТФОЛИО ПОРТФОЛИО ПОРТФОЛИО ПОРТФОЛИО </h1>
+    <div class="sites">
+  <div class="rectangle"> </div>
+  <div class="rectangle1"> </div>
+  <div class="rectangle2"> </div>
+  <div class="rectangle3"> </div>
+  <div class="rectangle4"> </div>
+  <div class="rectangle5"> </div>
+  <div class="rectangle6"> </div>
+  <div class="rectangle7"> </div>
+  <div class="rectangle8"> </div>
+   </div>
+   <div class="contacts">
+   <h1 class="cont_h">Контакты</h1>
+   
+
+
+
+
+
+
+
+
+
+
+   </div>
+    
+
+  
+  
+  
+  
+    
+
+    </body>
+</html>
+    
+        
